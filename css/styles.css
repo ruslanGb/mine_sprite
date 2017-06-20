@@ -1,0 +1,47 @@
+* { margin:0; padding:0;}
+
+html{
+  width: 100%; margin: 0;font-family: Arial, Helvetica, sans-serif;}
+.mainwrapper{margin: 0}
+header{margin: 0;}
+.green_line {width: 100%; background: #3E9F51;}
+.green_line_medle {margin: 0 auto; width: 980px; padding-top: 10px; overflow: hidden;}
+.tex_footer {font-size: 16px; color: #fff; text-align: left; padding: 8px 0;}
+.links_footer {text-align: right;}
+.white_line{margin: 0 auto; width: 980px;}
+.header_1, .header_2, .header_3{float: left;}
+.header_1{padding: 10px 0}
+.header_2, footer_namber{padding-right: 27px; width: 270px;}
+.footer_namber{float: right;}
+.header_4{float: right; padding: 26px 0}
+.big{margin: 0 auto; width: 100%; background: #3E9F51;}
+.resise{margin: 0 auto; width: 980px; background: #ffffff; overflow: hidden; padding-bottom: 31px;}
+.nav_medle{margin: 0 auto; width: 980px; color: #247634;}
+.top{list-style: none; background: #39A44E; font-size: 16px; font-weight: bold; overflow: hidden;
+  border-left: solid 1px #57E974; border-right: solid 1px #247634;}
+.top li{float: left; border-left: solid 1px #247634; border-right: solid 1px #57E974; padding: 15px 53.8px;}
+.top li a{color: white; text-decoration: none;}
+.top li a:hover{text-decoration:underline;}
+.side_bar{width: 230px; float: left; font-size: 20px; line-height: 3em; list-style: none;}
+.side_bar li a {text-decoration: none; color: black}
+/*.red li a{color: red;}*/
+.side_bar a:hover{ color: black;}
+.side_bar li { border-bottom: solid 1px #E7E7E7;}
+.posts{float: left; width: 733px; padding-left: 17px;}
+h1{font-size: 24px; line-height: 1.3em; font-weight: bold; padding: 22px 0 18px 0;}
+h2{font-size: 16px; line-height: 1.3em; font-weight: bold; padding: 25px 0 21px 0;}
+.minecraft{padding: 23px 0 36px 0;}
+main{overflow: hidden;}
+.news:first-child{padding-left: 0}
+.news li{width: 232px; height: 265px; list-style: none; float: left; margin: 0 6px; background: #3E9F51;margin: 12 0 0 7px;}
+.news li a{text-decoration: none; background: #3E9F51; color: white;}
+.bold_text{font-size: 16px; font-weight: bold; text-align: left;}
+.clear{clear: both;}
+.admin{font-size: 16px; text-align: left; padding: 0;}
+.namber{font-size: 20px; text-align: right;}
+.yellov{width: 100%; margin: 0 auto; background: #F9BE09; padding-top: 31px;}
+.yellov_little{width: 980px; margin: 0 auto; background: #F9BE09; overflow: hidden;}
+.link_im{width: 100%; background: #3E9F51;}
+.link_im_little{width: 980px; margin: 0 auto;}
+.link_im_little a{width: 980px; margin: 0 auto;}
+
